@@ -1,0 +1,23 @@
+{
+  "Thread": {
+    "spider:chuangshi": {
+        "thread_num": 1,
+        "modules": "spider",
+        "service": "chuangshi"
+    },
+
+    "spider:qidian": {
+        "thread_num": 0,
+        "modules": "spider",
+        "service": "qidian"
+    }
+
+  },
+
+  "databases": {
+
+    "master":{},
+
+    "slove": ""
+  }
+}
