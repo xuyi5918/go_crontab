@@ -1,7 +1,7 @@
 {
   "Thread": {
     "spider:chuangshi": {
-        "thread_num": 100,
+        "thread_num": 1000,
         "modules": "spider",
         "service": "chuangshi"
     },
